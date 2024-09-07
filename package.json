@@ -1,0 +1,9 @@
+{
+    "name": "task-manager",
+    "version": "1.0.0",
+    "description": "Aplikacja do zarządzania zadaniami",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
